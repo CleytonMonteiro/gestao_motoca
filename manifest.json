@@ -1,0 +1,21 @@
+{
+  "short_name": "GerenciaMotoca",
+  "name": "Gerencia Motoca - Gestão para Entregadores",
+  "icons": [
+    {
+      "src": "pwa-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "pwa-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/gestao_motoca/",
+  "background_color": "#121212",
+  "theme_color": "#FFC107",
+  "display": "standalone",
+  "orientation": "portrait"
+}
