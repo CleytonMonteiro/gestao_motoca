@@ -3,17 +3,20 @@
   "name": "Gerencia Motoca - Gestão para Entregadores",
   "icons": [
     {
-      "src": "pwa-192x192.png",
+      "src": "./icon-192.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "192x192",
+      "purpose": "any maskable"
     },
     {
-      "src": "pwa-512x512.png",
+      "src": "./icon-512.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "512x512",
+      "purpose": "any maskable"
     }
   ],
-  "start_url": "/gestao_motoca/",
+  "start_url": "./index.html",
+  "scope": "./",
   "background_color": "#121212",
   "theme_color": "#FFC107",
   "display": "standalone",
